@@ -20,3 +20,4 @@ At last when all the spaces are filled (the script checks this by keeping count 
 NOTE: currently the script is in verbos mode that shows for each itteration :
         1.The sudoku
         2.For each empty space, all possible numbers that can be fitted. 
+ 
