@@ -16,6 +16,7 @@ We need to save the sudoku as below in text file "sud.txt":
 Here * denotes the empty spaces in the sudoku.
 After this, execute the "SolveSudoku.py" script. For each empty space, it will check each number (1-9) to check if can be placed or not.
 If yes, the number is placed if no, it is passed.
+
 At last when all the spaces are filled (the script checks this by keeping count of spaces after each itteration), it stops and saves the solution "solution.txt".
 NOTE: currently the script is in verbos mode that shows for each itteration :
         1.The sudoku
