@@ -1,9 +1,87 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="8FZm7WH6Ok90W4lanf42">
-    <mxGraphModel>
+    <mxGraphModel dx="1209" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Mya0wwFcJrkU0yv1yBy1-1" value="Brihaspati" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mya0wwFcJrkU0yv1yBy1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mya0wwFcJrkU0yv1yBy1-2" target="Mya0wwFcJrkU0yv1yBy1-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mya0wwFcJrkU0yv1yBy1-2" value="Chandra" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="380" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mya0wwFcJrkU0yv1yBy1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mya0wwFcJrkU0yv1yBy1-3" target="Mya0wwFcJrkU0yv1yBy1-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mya0wwFcJrkU0yv1yBy1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mya0wwFcJrkU0yv1yBy1-3" target="Mya0wwFcJrkU0yv1yBy1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mya0wwFcJrkU0yv1yBy1-3" value="Tara" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="260" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mya0wwFcJrkU0yv1yBy1-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mya0wwFcJrkU0yv1yBy1-6" target="Mya0wwFcJrkU0yv1yBy1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mya0wwFcJrkU0yv1yBy1-6" value="Budh" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="380" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mya0wwFcJrkU0yv1yBy1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mya0wwFcJrkU0yv1yBy1-8" target="Mya0wwFcJrkU0yv1yBy1-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mya0wwFcJrkU0yv1yBy1-8" value="Ila" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="530" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mya0wwFcJrkU0yv1yBy1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mya0wwFcJrkU0yv1yBy1-10" target="Mya0wwFcJrkU0yv1yBy1-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mya0wwFcJrkU0yv1yBy1-10" value="Purvana" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mya0wwFcJrkU0yv1yBy1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mya0wwFcJrkU0yv1yBy1-13" target="Mya0wwFcJrkU0yv1yBy1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mya0wwFcJrkU0yv1yBy1-13" value="Urvashi" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="530" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mya0wwFcJrkU0yv1yBy1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mya0wwFcJrkU0yv1yBy1-15" target="Mya0wwFcJrkU0yv1yBy1-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mya0wwFcJrkU0yv1yBy1-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mya0wwFcJrkU0yv1yBy1-15" target="Mya0wwFcJrkU0yv1yBy1-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mya0wwFcJrkU0yv1yBy1-15" value="---" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="380" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mya0wwFcJrkU0yv1yBy1-17" value="Yayati" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="130" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mya0wwFcJrkU0yv1yBy1-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mya0wwFcJrkU0yv1yBy1-18" target="Mya0wwFcJrkU0yv1yBy1-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mya0wwFcJrkU0yv1yBy1-18" value="Devyani" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="250" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mya0wwFcJrkU0yv1yBy1-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mya0wwFcJrkU0yv1yBy1-19" target="Mya0wwFcJrkU0yv1yBy1-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mya0wwFcJrkU0yv1yBy1-19" value="Sarmishta" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="20" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mya0wwFcJrkU0yv1yBy1-21" value="Dushyant" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="380" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mya0wwFcJrkU0yv1yBy1-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mya0wwFcJrkU0yv1yBy1-25" target="Mya0wwFcJrkU0yv1yBy1-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mya0wwFcJrkU0yv1yBy1-25" value="Shakuntala" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mya0wwFcJrkU0yv1yBy1-27" value="Purvana" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="390" y="210" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
